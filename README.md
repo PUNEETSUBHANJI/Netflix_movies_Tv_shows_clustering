@@ -50,7 +50,7 @@
 
 * The objective was to anticipate bunches of comparable substance by matching text-based elements.
 
-* Exploratory Data Analysis is done on the dataset to get the insights from the information however the principal invalid qualities are taken care of. Likewise, some hypothesis testing was additionally performed from the experiences from EDA.
+* Exploratory Data Analysis is done on the dataset to get the meaningful insights from the information however the principal invalid qualities are taken care of. Likewise, some hypothesis testing was additionally performed from the experiences from EDA.
 
 * After that description segment is our objective variable must be highlighted where NLP activities are performed on it and after that vectorized by utilizing TFIDF. 
 
